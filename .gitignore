@@ -1,0 +1,10 @@
+.space
+Spacefile
+
+*token
+.env
+
+go.sum
+*.exe
+
+.vscode
