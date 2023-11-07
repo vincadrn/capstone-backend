@@ -1,5 +1,7 @@
 .space
 Spacefile
+Procfile
+Buildfile
 
 *token
 .env
@@ -8,3 +10,9 @@ go.sum
 *.exe
 
 .vscode
+
+application
+main
+*.json
+*.sql
+*.zip
